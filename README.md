@@ -14,7 +14,11 @@ This repository will contain the game that I realized during the internship.
 ## Video
 
 
-https://github.com/Ardelean-Claudiu-Andrei/Eggventure-Bulls-Quest/assets/91498815/150d0b0d-1626-43aa-9f83-b28a752f5ba9
+
+
+https://github.com/Ardelean-Claudiu-Andrei/Eggventure-Bulls-Quest/assets/91498815/c817eace-dc4d-4001-acad-d1df3909ffbf
+
+
 
 
 
